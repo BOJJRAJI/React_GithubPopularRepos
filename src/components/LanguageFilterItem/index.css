@@ -1,0 +1,37 @@
+.active-tab {
+  border: 1px solid #0284c7;
+  border-radius: 35px;
+  padding: 3px;
+  font-weight: 900;
+  font-size: 18px;
+  color: #0284c7;
+}
+.normal-tab {
+  padding: 5px;
+  font-weight: 500;
+  font-size: 15px;
+  color: #0f172a;
+}
+.tab-list {
+  margin: 2px;
+  width: 10px;
+}
+.active-tab-button {
+  background-color: transparent;
+  color: #0284c7;
+
+  border: 1px solid #0284c7;
+  border-radius: 18px;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 15px;
+  color: #0284c7;
+}
+.normal-button {
+  padding: 5px;
+  font-weight: 500;
+  font-size: 15px;
+  color: #0f172a;
+  background-color: transparent;
+  border: none;
+}
